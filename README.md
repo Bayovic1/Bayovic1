@@ -1,4 +1,4 @@
-Hello ! I'm Victor Adebayo ADESANYA, a Data Scientist and Project Manager with a passion for using data to solve real-world problems. I'm excited to explore new challenges, collaborate with like-minded individuals, and contribute to open-source projects.
+Hello ! I'm Victor Adebayo ADESANYA, a Junior Data Scientist and Project Manager with a passion for using data to solve real-world problems. I'm excited to explore new challenges, collaborate with like-minded individuals, and contribute to open-source projects.
 
 Here you'll find some of my work:
 
