@@ -2,9 +2,9 @@ Hello ! I'm Victor Adebayo ADESANYA, a Junior Data Scientist and Project Manager
 
 Here you'll find some of my work:
 
-#1 Data Science Projects:** (List some of your data science projects here, linking to repositories if available).
+#1 Data Science Projects: Currently working on some projects, and a few will be dispalyed on the Public Repository.
 
-#2 Project Management Tools:** (List any project management tools you're proficient in, e.g., Git, Jira, Asana)
+#2 Project Management Tools: Proficient in Git, Jira and Asana
 
 I am much more interested in Data, and Projects. Currently, I am still learning and I love it. I hope to collaborate more with individuals with great mindsets in achieving SMART Goals. 
 
